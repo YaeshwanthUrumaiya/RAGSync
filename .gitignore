@@ -170,3 +170,4 @@ cython_debug/
 RAG_TEST_Implementation.ipynb
 RAG_TESTING.ipynb
 streamlit_test_V3.py
+Instructions.md
